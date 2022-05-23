@@ -29,7 +29,6 @@
 import UIKit
 import Alamofire
 import MBProgressHUD
-import DocereeAdsSdk
 
 public class PickFlavorViewController: UIViewController {
   
